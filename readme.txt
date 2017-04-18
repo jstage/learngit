@@ -1,9 +1,2 @@
-namespace java com.jc.yukiso.server 
- service Server{ 
-  string helloString(1:string para) 
-  i32 helloInt(1:i32 para) 
-  bool helloBoolean(1:bool para) 
-  void helloVoid() 
-  string helloNull() 
-  void client()
- }
+Git is a version control system.
+Git is free software.
